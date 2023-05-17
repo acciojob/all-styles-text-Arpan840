@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.box{
+	width: 200px;
+	color:white;
+	font-size:20px;
+	padding:10px;
+	background-color:purple;
+	border-left:5px solid green ;
+	text-decoration: underline;}
+		
+}
